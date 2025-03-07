@@ -1,8 +1,5 @@
 """
-This file is submitted by:
-                                Group - 3
-                                1.Kailash Reddy Nandaluri - 2003123
-                                2.Vishnutejesh - 2003122
+
 """ 
 
 # valueIterationAgents.py
