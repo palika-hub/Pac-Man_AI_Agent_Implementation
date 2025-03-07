@@ -1,9 +1,3 @@
-'''
-            Group - 3
-            Kailash Reddy Nandaluri - 2003123
-            Vishnu Tejesh - 2003122
-'''
-
 from collections import defaultdict
 import string
 import random
