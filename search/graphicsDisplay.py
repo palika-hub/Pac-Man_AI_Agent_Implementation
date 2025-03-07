@@ -20,7 +20,7 @@ from game import Directions
 #  GRAPHICS DISPLAY CODE  #
 ###########################
 
-# Most code by Dan Klein and John Denero written or rewritten for cs188, UC Berkeley.
+
 # Some code from a Pacman implementation by LiveWires, and used / modified with permission.
 
 DEFAULT_GRID_SIZE = 30.0
