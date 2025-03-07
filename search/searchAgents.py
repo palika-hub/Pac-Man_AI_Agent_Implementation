@@ -1,6 +1,4 @@
 '''
-Kailash Reddy Nandaluri - 2003123
-Vishnu Tejesh Movva - 2003122
 '''
 
 
